@@ -89,7 +89,7 @@ git clone https://github.com/Francovg18/EjercicioP
 ### Instalar dependencias
 
 ```bash
-cd EjercicioP
+cd EjercicioP (ubicarse en el proyecto)
 npm install
 ```
 
