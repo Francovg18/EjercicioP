@@ -78,16 +78,18 @@ EjercicioP/
 
 ## Instalación
 
+Se debe contar con node.js y git previamente instalado
+
 ### Clonar el repositorio
 
 ```bash
 git clone https://github.com/Francovg18/EjercicioP
-cd EjercicioP
 ```
 
 ### Instalar dependencias
 
 ```bash
+cd EjercicioP
 npm install
 ```
 
