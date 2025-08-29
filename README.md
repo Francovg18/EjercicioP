@@ -81,7 +81,7 @@ EjercicioP/
 ### Clonar el repositorio
 
 ```bash
-git clone <URL-del-repositorio>
+git clone https://github.com/Francovg18/EjercicioP
 cd EjercicioP
 ```
 
